@@ -9,8 +9,8 @@
 My name is Victor, i'm 43 years old, i work as a craftsman, 
 i study programming because i like it and i want to change my profession, i like playing voleyball.
 ## Skils 
-- HTML
-- CSS
+- HTML5
+- CSS3
 - Git
 ## Code Example 
  $a = 30; $b = 2; $c = $a+$b; echo $c; 
