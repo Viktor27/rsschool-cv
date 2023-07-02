@@ -2,7 +2,7 @@
 # Kirbai Viktor
 ## Contacts
 - Location: Minsk, Belarus
-- Phone: 8029 345-90-93
+- Phone: 8029 (345-90-93)
 - Email: kirbajviktor@gmail.com
 - GitHub: Viktor27
 ## About me
