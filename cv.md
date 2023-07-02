@@ -13,7 +13,7 @@ i study programming because i like it and i want to change my profession, i like
 - CSS3
 - Git
 ## Code Example 
- $a = 30; $b = 2; $c = $a+$b; echo $c; 
+ $a = 35; $b = 5; $c = $a+$b; echo $c; 
 ## Experience
 ## Education
 * Courses:
