@@ -8,7 +8,7 @@
 ## About me
 My name is Victor, i'm 43 years old, i work as a craftsman, 
 i study programming because i like it and i want to change my profession, i like playing voleyball.
-## Skils 
+## Skills 
 - HTML5
 - CSS3
 - Git
