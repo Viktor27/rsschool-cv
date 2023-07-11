@@ -29,3 +29,13 @@ body {
 ul li {
     list-style-type: none;
 }
+.new {
+    display: flex;
+    font-size: 30px;
+    background-color: rgba(108, 108, 223, 0.466);
+    justify-content: space-around;
+}
+.footer {
+    background-color:  rgba(108, 108, 223, 0.466);
+    font-size: 30px;
+}
